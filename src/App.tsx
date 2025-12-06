@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Header } from '../test';
+import Header from './Header';
 import Globe from './Globe';
 
 function App() {
